@@ -1,0 +1,4 @@
+[submodule "Scripts/libs/lua-mods-libs"]
+	path = Scripts/libs/lua-mods-libs
+	url = https://github.com/0-F/lua-mods-libs.git
+	branch = master
